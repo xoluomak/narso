@@ -22,7 +22,7 @@ function Home() {
         <div style={{ width: '4px', backgroundColor: config.colors.fourth, marginTop: 20, marginBottom: 20, marginRight: 40, marginLeft: 40 }} />
         <div>
           <p style={{ color: config.colors.fifth, fontFamily: config.fonts.spaceranger, fontSize: 20, letterSpacing: 1.5, zIndex: 5 }}>
-            Ceci est un texte générique servant d'exemple de remplissage.
+            Ceci est un texte generique servant d'exemple de remplissage.
           </p>
           <p style={{ color: config.colors.fifth, fontFamily: config.fonts.spaceranger, fontSize: 20, letterSpacing: 1.5, zIndex: 5 }}>
             Les polices d'écriture peuvent être modifiées à tout moment.
