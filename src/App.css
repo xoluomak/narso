@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Future Z";   /*Can be any text*/
+  src: local("Future Z"),
+    url("./fonts/Future\ Z.ttf") format("truetype");
+}
+@font-face {
+  font-family: "futurespore";   /*Can be any text*/
+  src: local("futurespore"),
+    url("./fonts/futurespore.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Hi Jack";   /*Can be any text*/
+  src: local("Hi Jack"),
+    url("./fonts/Hi Jack.ttf") format("truetype");
+}
+@font-face {
+  font-family: "kenyan coffee";   /*Can be any text*/
+  src: local("kenyan coffee"),
+    url("./fonts/kenyan coffee.otf") format("truetype");
+}
+@font-face {
+  font-family: "unispace";   /*Can be any text*/
+  src: local("unispace"),
+    url("./fonts/unispace.otf") format("truetype");
+}
+@font-face {
+  font-family: "Mono-Regular";   /*Can be any text*/
+  src: local("Mono-Regular"),
+    url("./fonts/Mono-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "novamono";   /*Can be any text*/
+  src: local("novamono"),
+    url("./fonts/novamono.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Square Game";   /*Can be any text*/
+  src: local("Square Game"),
+    url("./fonts/Square Game.otf") format("truetype");
+}
+@font-face {
+  font-family: "Beyonders";   /*Can be any text*/
+  src: local("Beyonders"),
+    url("./fonts/Beyonders.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Brolink";   /*Can be any text*/
+  src: local("Brolink"),
+    url("./fonts/Brolink.otf") format("truetype");
+}
+@font-face {
+  font-family: "OriginTech";   /*Can be any text*/
+  src: local("OriginTech"),
+    url("./fonts/OriginTech.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spaceranger";   /*Can be any text*/
+  src: local("spaceranger"),
+    url("./fonts/spaceranger.ttf") format("truetype");
+}
