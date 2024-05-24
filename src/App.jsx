@@ -16,7 +16,7 @@ import Materiel from './components/Materiel';
 
 function App() {
   return (
-    <div style={{ backgroundColor: config.colors.primary }}>
+    <div style={{ backgroundColor: config.colors.primary, margin: 0, padding: 0 }}>
       <Router>
         <div>
           <TopBar />
